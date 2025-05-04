@@ -1,7 +1,4 @@
 Write-Host ""
-Write-Host "" 
-Write-Host ""
-Write-Host ""
 Write-Host -ForegroundColor Green "Tranquilo, estas en manos de expertos - @rthy" 
 Write-Host ""
 
